@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BeatrizFlandes
+- 👋 Hi, I’m @Bee
 - 👀 I’m interested in Learning Html + css
 - 🌱 I’m currently learning php and javascript
 - 😄 Pronouns: She/her 
