@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BeatrizFlandes
-- 👀 I’m interested in Learning Html and python
-- 🌱 I’m currently learning Html and python
+- 👀 I’m interested in Learning Html + css
+- 🌱 I’m currently learning php and javascript
 - 😄 Pronouns: She/her 
 - ⚡ Fun fact: I´m a super nerd!
 
